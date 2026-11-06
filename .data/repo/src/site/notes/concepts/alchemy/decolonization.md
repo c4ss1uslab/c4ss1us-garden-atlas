@@ -1,0 +1,32 @@
+---
+created in: '2024-09-16T15:16:49-03:00'
+last tended to: '2024-10-25T14:59:36-03:00'
+tags:
+  - concept
+  - alchemy
+  - regen
+  - host
+  - 🌱
+  - indigenous
+relevancescore: 96
+aliases:
+  - decolonial
+notestage:
+  - 🌱
+created: '2024-09-16T15:16:49.568-03:00'
+updated: '2025-06-09T18:49:46.181-03:00'
+dg-publish: true
+permalink: /concepts/alchemy/decolonization/
+dgPassFrontmatter: true
+x: -585.45
+'y': 1221.47
+domain: alchemy
+sub_idx: 2
+pinned: 1
+---
+
+i find this a very good introduction to the field, though accessible mostly for those already onboard with most of its premises (and focusing more on [[higher education\|higher education]]): [GTDF's decolonizing higher education workbook](https://decolonialfutures.net/wp-content/uploads/2021/03/decolonizing-he-workbook-draft-march2021-2.pdf]).
+
+[[initiatives, orgs & communities/regen/culture hack labs\|culture hack labs]] also offers good perspectives in their [issues](https://www.culturehack.io/issues/)/[[_009_notes & highlights from books, videos, articles/post capitalist philanthropy\|post capitalist philanthropy]], but also in a language mostly for insiders. i'm still trying to find the most accessible introductions!
+
+major references (both theoretical and practical): [[people/references/regen/vanessa andreotti\|vanessa andreotti]] & [[cash ahenakew\|cash ahenakew]], [[bayo akomolafe\|bayo akomolafe]], [[tyson yunkaporta\|tyson yunkaporta]], [[robin wall kimmerer\|robin wall kimmerer]], [[people/references/host/manish jain\|manish jain]], [[nego bispo\|nego bispo]], [[mestre cobra mansa\|mestre cobra mansa]], [[cláudio miranda\|cláudio miranda]], [[ninawa huni kui\|ninawa huni kui]], [[jerá guarani\|jerá guarani]], [[kaka werá\|kaka werá]], [[ailton krenak\|ailton krenak]].

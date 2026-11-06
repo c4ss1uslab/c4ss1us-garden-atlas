@@ -1,0 +1,6 @@
+{
+  "name": "c4ss1us' Knowledge Atlas",
+  "description": "A curated full-stack research digital garden mapping cognitive topologies and semantic layers with LLM-assisted relationship calibration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
